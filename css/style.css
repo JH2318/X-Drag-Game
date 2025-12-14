@@ -1,13 +1,13 @@
 body {
-    background: linear-gradient(to bottom right, #f0f4ff, #d5e1ff)
+    background: linear-gradient(to bottom right, #c1c4cc, hsl(0, 0%, 0%))
 }
 
 #containment-wrapper {
     position: relative;
     height: 400px;
-    border: 2px dashed #999;
+    border: 2px dashed #0f0e0e;
     border-radius: 10px;
-    background: #ffffaa;
+    background: #b5c0be;
 }
 
 #meme-pic {
